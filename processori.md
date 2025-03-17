@@ -1,3 +1,4 @@
 2103118
 2113182
-processori.md
+Intel
+AMD
